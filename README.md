@@ -18,8 +18,7 @@ The Kibana Query Language (KQL) is a simple text-based query language designed f
 - Use KQL in Kibana's search bar for interactive queries
 
 ## Contributing:
-- Contribute to KQL's development by submitting bug reports or enhancements
-- Engage with the Kibana community on forums and discussions
+**Kibana Query Language (KQL)** is a powerful tool for filtering and querying Elasticsearch data. Whether you’re investigating security incidents, analyzing logs, or monitoring performance, KQL simplifies the process. As an open-source project, we invite you to contribute by reporting bugs, enhancing features, and engaging with the Kibana community. Let’s collaborate to make KQL even better! 🚀👍
 
 ## License:
 Read More about [license here](https://github.com/prashanthpulisetti/KQL-Elasticsearch-Data-Filtering/blob/main/LICENSE)
