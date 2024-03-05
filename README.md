@@ -22,4 +22,4 @@ The Kibana Query Language (KQL) is a simple text-based query language designed f
 - Engage with the Kibana community on forums and discussions
 
 ## License:
-Read More here about [license here] (https://github.com/prashanthpulisetti/KQL-Elasticsearch-Data-Filtering/blob/main/LICENSE)
+Read More here about [license here](https://github.com/prashanthpulisetti/KQL-Elasticsearch-Data-Filtering/blob/main/LICENSE)
